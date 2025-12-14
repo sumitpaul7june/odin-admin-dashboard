@@ -1,1 +1,2 @@
 # odin-admin-dashboard
+This project is a solution to the Admin Dashboard project from The Odin Project's Intermediate HTML and CSS course. It is a comprehensive exercise in creating a complex, real-world layout using CSS Grid.
